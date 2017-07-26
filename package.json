@@ -48,7 +48,7 @@
     "sinon": "^1.17.3"
   },
   "peerDependencies": {
-    "react": "*",
-    "react-native": "*"
+    "react": "16.0.0-alpha.12",
+    "react-native": "^0.45.1"
   }
 }
