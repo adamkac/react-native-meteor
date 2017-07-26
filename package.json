@@ -31,7 +31,7 @@
     "ejson": "^2.1.2",
     "minimongo-cache": "0.0.48",
     "prop-types": "^15.5.10",
-    "react-komposer": "https://github.com/adamkac/react-komposer.git#8506677be20cad7f0196a9005c0eb62991b1767a",
+    "react-komposer": "https://github.com/adamkac/react-komposer.git#29287529df53de3c3b64915a282913d1f48ca96d",
     "react-mixin": "^3.0.3",
     "trackr": "^2.0.2",
     "underscore": "^1.8.3",
