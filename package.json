@@ -1,6 +1,6 @@
 {
   "name": "react-native-meteor",
-  "version": "1.3.0",
+  "version": "1.4.0",
   "description": "Full Meteor Client for React Native",
   "main": "src/Meteor.js",
   "scripts": {
@@ -31,7 +31,7 @@
     "ejson": "^2.1.2",
     "minimongo-cache": "0.0.48",
     "prop-types": "^15.5.10",
-    "react-komposer": "https://github.com/adamkac/react-komposer.git#29287529df53de3c3b64915a282913d1f48ca96d",
+    "react-komposer": "https://github.com/adamkac/react-komposer.git",
     "react-mixin": "^3.0.3",
     "trackr": "^2.0.2",
     "underscore": "^1.8.3",
